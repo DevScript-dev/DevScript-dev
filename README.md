@@ -1,7 +1,3 @@
-<!-- 🌌 Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DarkStack-Dev/DarkStack-Dev/main/banner.png" alt="Dev_Script Banner" width="100%">
-</p>
 
 <h1 align="center">👾 Dev_Script 👾</h1>
 <p align="center">
@@ -51,11 +47,11 @@ Seja tu um **pentester**, **analista de banco de dados**, **programador**, **sys
 ---
 
 ## 🌐 Conecta-te connosco
-🔗 [Nosso site oficial]Prevemente.
+🔗 [Nosso site oficial] Prevemente.
 
 📱 Instagram: [@devscript.dev](https://www.instagram.com/devscript.dev?igsh=YzljYTk1ODg3Zg==)
 
-💬 Discord: Prevemente..
+💬 Comunidade do Watsapp: Prevemente..
 
 📧 E-mail: devscript.dev@gmail.com  
 
